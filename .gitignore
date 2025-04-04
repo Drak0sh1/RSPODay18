@@ -2,6 +2,14 @@
 # Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
 ################################################################################
 
+<<<<<<< HEAD
 *.vsidx
 /.vs/slnx.sqlite
 /.vs/RSPODay18/FileContentIndex/760346a7-21ac-43f5-b30f-2793fcae28d9.vsidx
+=======
+/.vs/RSPODay18/FileContentIndex/679e625a-17b2-4748-a4cd-ccbd58a24cc1.vsidx
+/.vs/RSPODay18/FileContentIndex/9c3ee4b0-62f8-4bb5-9bae-72511c66cf96.vsidx
+/.vs/RSPODay18/FileContentIndex/62196feb-8016-4947-906a-0a58d8a3705b.vsidx
+/.vs/slnx.sqlite
+>>>>>>> br
+*.sqlite-journal
