@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore",
+              "DocumentMoniker": "C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\gitignore",
+              "RelativeDocumentMoniker": "gitignore",
+              "ToolTip": "C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\gitignore",
+              "RelativeToolTip": "gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-04T06:56:36.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B",
+              "DocumentMoniker": "C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B",
+              "RelativeDocumentMoniker": "\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B",
+              "ToolTip": "C:\\Users\\LocalUSer\\source\\repos\\RSPODay18\\\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B",
+              "RelativeToolTip": "\u041D\u043E\u0432\u044B\u0439 \u0444\u0430\u0439\u043B",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-04T06:51:40.502Z",
+              "EditorCaption": ""
             }
           ]
         }
